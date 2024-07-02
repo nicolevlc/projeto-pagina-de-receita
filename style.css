@@ -11,7 +11,7 @@
 
 body {
   background-image: url(/assets/bg.jpg);
-  background-size: cover;
+  background-size: 100%;
 }
 
 #page {
